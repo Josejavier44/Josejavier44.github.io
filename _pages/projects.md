@@ -3,7 +3,7 @@ layout: page
 title: Projects
 permalink: /projects/
 description: Ongoing research projects.
-nav: true
+nav: false # hidden at the user's request — no projects page for now
 nav_order: 3
 display_categories: [research]
 horizontal: false

@@ -1,0 +1,10 @@
+# Conferences attended and talks given. Add one entry per talk/conference,
+# most recent first.
+#
+# - title: "Talk or presentation title"
+#   event: "Conference / workshop / seminar name"
+#   location: "City, Country"
+#   date: "2026-03-15" # or "2026-03" if you don't have an exact day
+#   type: "Talk" # Talk, Poster, Conference, Seminar, etc.
+#   url: "" # optional link to slides, video, or the event page
+[]
