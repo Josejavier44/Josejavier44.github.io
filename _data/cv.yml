@@ -1,5 +1,5 @@
 cv:
-  name: José Javier [YOUR SURNAME HERE] # TODO: your full name exactly as you want to sign it
+  name: José Javier Ortega Gómez
   label: PhD Student (FPU) · Theoretical Physics
   email: jjavier.ortega@csic.es
   location: Madrid, Spain
@@ -9,12 +9,11 @@ cv:
     working on axial oscillations of viscous neutron stars and cosmic topology
     (Casimir energy, primordial power spectrum).
 
-  # TODO: add your LinkedIn or other networks here if you want, same format:
-  # - network: LinkedIn
-  #   username: your-username
   social_networks:
     - network: GitHub
       username: Josejavier44
+    - network: LinkedIn
+      username: jose-javier-ortega-gomez
 
   address:
     street: C/ Nicolás Cabrera 13-15, Campus de Cantoblanco UAM
@@ -25,21 +24,40 @@ cv:
 
   sections:
     Education:
-      # TODO: fill in your real education (degree, master's, university, dates) and delete the placeholders
-      - institution: "[YOUR UNIVERSITY]"
-        location: "[City, Country]"
+      - institution: Universidad Autónoma de Madrid (UAM)
+        location: Madrid, Spain
+        url: ""
+        area: Theoretical Physics
+        studyType: PhD
+        start_date: "2025-10-20"
+        end_date: present
+        highlights: []
+
+      - institution: Universidad Autónoma de Madrid (UAM)
+        location: Madrid, Spain
+        url: ""
+        area: Theoretical Physics
+        studyType: MSc
+        start_date: "2024-09"
+        end_date: "2025-07"
+        highlights:
+          - 'Thesis: "The History of the Universe with Alpha-Attractors" — grade 9.3/10'
+
+      - institution: Universidad de Granada
+        location: Granada, Spain
         url: ""
         area: Physics
-        studyType: "[Bachelor's / Master's]"
-        start_date: ""
-        end_date: ""
-        highlights: []
+        studyType: BSc
+        start_date: "2020-09"
+        end_date: "2024-07"
+        highlights:
+          - "Grade 9.32/10 — 3rd in class"
 
     Experience:
       - company: Institute for Theoretical Physics (IFT UAM-CSIC)
         position: Doctoral Researcher (Yashar Akrami's group)
         location: Madrid, Spain
-        start_date: "" # TODO: PhD start date, format YYYY-MM
+        start_date: "2025-12"
         end_date: present
         summary: >
           PhD research funded by an FPU (Formación de Profesorado Universitario) grant,
@@ -49,6 +67,38 @@ cv:
           - Computing Casimir energy and its backreaction in non-trivial cosmic topology scenarios
           - Studying the imprint of cosmic topology on the primordial power spectrum
 
+      - company: Niels Bohr Institute
+        position: Erasmus+ Research Stay
+        location: Copenhagen, Denmark
+        start_date: "2025-07"
+        end_date: "2025-08"
+        summary: ""
+        highlights: []
+
+      - company: Institute of Philosophy (CSIC)
+        position: JAE Intro Research Fellow
+        location: Madrid, Spain
+        start_date: "2024-10"
+        end_date: "2025-04"
+        summary: ""
+        highlights: []
+
+      - company: Universidad de Granada
+        position: "Undergraduate Research Fellow (Beca de Colaboración), group of Bert Janssen"
+        location: Granada, Spain
+        start_date: "2023-10"
+        end_date: "2024-07"
+        summary: ""
+        highlights: []
+
+      - company: Universidad de Granada
+        position: Undergraduate Research Fellow (Beca de Iniciación a la Investigación)
+        location: Granada, Spain
+        start_date: "2023-02"
+        end_date: "2023-10"
+        summary: ""
+        highlights: []
+
     Awards:
       - title: FPU Grant (Formación de Profesorado Universitario)
         authors:
@@ -57,13 +107,22 @@ cv:
         awarder: Ministry of Universities
         summary: "Reference: FPU24/02041"
 
+      - title: NASA International Space Apps Challenge
+        authors: []
+        date: "2024"
+        awarder: NASA
+        summary: ""
+
     Publications:
       - title: Axial Oscillations of Viscous Neutron Stars
         authors:
-          - "[YOUR NAME AND COAUTHORS]" # TODO: real author list
+          - Sofía Bussières
+          - Jaime Redondo-Yuste
+          - José Javier Ortega Gómez
+          - Vitor Cardoso
         publisher: Phys. Rev. D 114, 044012
         releaseDate: 2026
-        url: "" # TODO: DOI or link
+        url: https://doi.org/10.1103/w9nm-ygnf
         summary: >
           Simulation of viscous neutron stars with a Mathematica program, including
           reproducing simplified cases from the literature and the physical
@@ -71,7 +130,7 @@ cv:
 
       - title: "Quantum Signatures of Cosmic Topology: How Casimir Backreaction Transmits Isotropy Violation"
         authors:
-          - "[YOUR NAME AND COAUTHORS]" # TODO: real author list
+          - COMPACT Collaboration
         publisher: arXiv:2603.12319
         releaseDate: 2026
         url: https://arxiv.org/abs/2603.12319
@@ -82,9 +141,13 @@ cv:
         level: ""
         icon: fa-solid fa-square-root-variable
         keywords: "Mathematica, relativistic hydrodynamics, non-perturbative evolution of the universe"
-      # TODO: add programming languages, tools, or other techniques (e.g. Python, C++, CAMB/CLASS, etc.)
+      - name: Programming
+        level: ""
+        icon: fa-solid fa-code
+        keywords: "Python"
 
     Languages:
-      # TODO: add the languages you speak and your level, and delete this placeholder
-      - name: "[Language]"
-        summary: "[Level]"
+      - name: Spanish
+        summary: Native
+      - name: English
+        summary: "C1"

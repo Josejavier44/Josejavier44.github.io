@@ -9,11 +9,11 @@
 email: jjavier.ortega@csic.es
 rss_icon: true # comment this line to hide the RSS icon
 github_username: Josejavier44
+inspirehep_id: 3145387
+orcid_id: 0009-0004-4920-5792
+linkedin_username: jose-javier-ortega-gomez
 # cv_pdf: /assets/pdf/cv.pdf # TODO: upload your CV to assets/pdf/cv.pdf and uncomment this line
-# inspirehep_id: 1234567 # TODO: your INSPIRE-HEP author ID (inspirehep.net/authors/...), highly recommended in theoretical physics
-# scholar_userid: XXXXXXXXXXXX # TODO: your Google Scholar ID (appears in your profile URL, after user=)
-# orcid_id: 0000-0000-0000-0000 # TODO: your ORCID, if you have one
-# linkedin_username: your-username # TODO: optional
-# x_username: your-username # TODO: optional (formerly Twitter)
+# scholar_userid: XXXXXXXXXXXX # no Google Scholar profile yet
+# x_username: your-username # optional (formerly Twitter)
 # wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)

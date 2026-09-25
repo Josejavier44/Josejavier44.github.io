@@ -4,8 +4,8 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: José Javier
-middle_name: # TODO: add a middle name here if you use one; otherwise leave it blank
-last_name: "[YOUR SURNAME HERE]" # TODO: put your surname(s) exactly as you want them to appear on the site and in citations
+middle_name:
+last_name: "Ortega Gómez"
 contact_note: >
   The most reliable way to reach me is by email.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -361,7 +361,7 @@ scholar:
   # TODO: put your surname and the name variants you use in your papers here,
   # so your name gets automatically underlined in the author list
   # (must match what you put in _bibliography/papers.bib)
-  last_name: [TuApellido]
+  last_name: [Ortega Gómez]
   first_name: [José Javier, J. J.]
 
   style: apa

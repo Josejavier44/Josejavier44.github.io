@@ -5,5 +5,16 @@
 # "akrami":
 #   - firstname: ["Yashar", "Y."]
 #     url: https://example.com/yashar-akrami
-#
-# TODO: replace with your real coauthors.
+
+"akrami":
+  - firstname: ["Yashar", "Y."]
+    url: https://inspirehep.net/authors/1046179
+
+"bussieres":
+  - firstname: ["Sofía", "S."]
+
+"redondo-yuste":
+  - firstname: ["Jaime", "J."]
+
+"cardoso":
+  - firstname: ["Vitor", "V."]
