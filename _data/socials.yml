@@ -1,14 +1,19 @@
 # this file contains the social media links and usernames of the author
 # the socials will be displayed in the order they are defined here
-# for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gga/jekyll-socials
-cv_pdf: # TODO: sube tu CV a assets/pdf/cv.pdf y pon aquí /assets/pdf/cv.pdf
+# for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
+#
+# IMPORTANTE: si no tienes valor para un campo, BÓRRALO o coméntalo con "#" en
+# vez de dejarlo vacío — un campo presente pero vacío rompe el build (el
+# plugin intenta construir una URL con un valor nulo). Para activarlo, quita
+# el "#" del principio de la línea y rellena tu dato real.
 email: jjavier.ortega@csic.es
-inspirehep_id: # TODO: tu ID de autor en INSPIRE-HEP (inspirehep.net/authors/...), muy recomendable en física teórica
 rss_icon: true # comment this line to hide the RSS icon
-scholar_userid: # TODO: tu ID de Google Scholar (aparece en la URL de tu perfil, tras user=)
 github_username: Josejavier44
-orcid_id: # TODO: tu ORCID (formato 0000-0000-0000-0000), si tienes
-linkedin_username: # TODO: opcional
-x_username: # TODO: opcional (antes Twitter)
+# cv_pdf: /assets/pdf/cv.pdf # TODO: sube tu CV a assets/pdf/cv.pdf y descomenta esta línea
+# inspirehep_id: 1234567 # TODO: tu ID de autor en INSPIRE-HEP (inspirehep.net/authors/...), muy recomendable en física teórica
+# scholar_userid: XXXXXXXXXXXX # TODO: tu ID de Google Scholar (aparece en la URL de tu perfil, tras user=)
+# orcid_id: 0000-0000-0000-0000 # TODO: tu ORCID, si tienes
+# linkedin_username: tu-usuario # TODO: opcional
+# x_username: tu-usuario # TODO: opcional (antes Twitter)
 # wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)

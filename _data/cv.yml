@@ -9,11 +9,12 @@ cv:
     trabajando en oscilaciones de estrellas de neutrones viscosas y en topología cósmica
     (energía de Casimir, espectro de potencias primordial).
 
+  # TODO: añade aquí tu LinkedIn u otras redes si quieres, con el mismo formato:
+  # - network: LinkedIn
+  #   username: tu-usuario
   social_networks:
     - network: GitHub
       username: Josejavier44
-    - network: LinkedIn
-      username: # TODO: opcional
 
   address:
     street: C/ Nicolás Cabrera 13-15, Campus de Cantoblanco UAM
@@ -24,21 +25,21 @@ cv:
 
   sections:
     Education:
-      # TODO: rellena tu formación (grado, máster, universidad, fechas)
+      # TODO: rellena tu formación real (grado, máster, universidad, fechas) y borra los placeholders
       - institution: "[TU UNIVERSIDAD]"
         location: "[Ciudad, País]"
-        url:
+        url: ""
         area: Physics
         studyType: "[Grado / Máster]"
-        start_date: # TODO
-        end_date: # TODO
+        start_date: ""
+        end_date: ""
         highlights: []
 
     Experience:
       - company: Instituto de Física Teórica (IFT UAM-CSIC)
         position: Doctoral Researcher (Grupo de Yashar Akrami)
         location: Madrid, Spain
-        start_date: # TODO: fecha de inicio del doctorado
+        start_date: "" # TODO: fecha de inicio del doctorado, formato AAAA-MM
         end_date: present
         summary: >
           Investigación predoctoral financiada por una beca FPU (Formación de Profesorado
@@ -52,7 +53,7 @@ cv:
       - title: Beca FPU (Formación de Profesorado Universitario)
         authors:
           - Ministerio de Universidades (Gobierno de España)
-        date: # TODO: fecha de concesión
+        date: "" # TODO: fecha de concesión, formato AAAA-MM-DD
         awarder: Ministerio de Universidades
         summary: "Referencia: FPU24/02041"
 
@@ -62,7 +63,7 @@ cv:
           - "[TU NOMBRE Y COAUTORES]" # TODO: lista real de autores
         publisher: Phys. Rev. D 114, 044012
         releaseDate: 2026
-        url: # TODO: DOI o enlace
+        url: "" # TODO: DOI o enlace
         summary: >
           Simulación de estrellas de neutrones viscosas con un programa en Mathematica,
           incluyendo la reproducción de casos simplificados de la literatura y la
@@ -78,12 +79,12 @@ cv:
 
     Skills:
       - name: Simulación numérica
-        level:
+        level: ""
         icon: fa-solid fa-square-root-variable
         keywords: "Mathematica, hidrodinámica relativista, evolución no perturbativa del universo"
       # TODO: añade lenguajes de programación, herramientas o técnicas adicionales (p.ej. Python, C++, CAMB/CLASS, etc.)
 
     Languages:
-      # TODO: añade los idiomas que domines y tu nivel
+      # TODO: añade los idiomas que domines y tu nivel, y borra este placeholder
       - name: "[Idioma]"
         summary: "[Nivel]"
