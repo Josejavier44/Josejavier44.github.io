@@ -90,6 +90,7 @@
               {% endcapture %}
               {% assign location = location | strip %}
               {% if location != '' %}
+                {% assign location = location | replace: ', ', '<br />' %}
                 <tr>
                   <td>
                     <p class="location">
