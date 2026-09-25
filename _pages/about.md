@@ -29,7 +29,7 @@ latest_posts:
 
 I am a PhD student in theoretical physics at the [Institute for Theoretical Physics (IFT UAM-CSIC)](https://www.ift.csic-uam.es/), where I work in Yashar Akrami's group, supported by an FPU (Formación de Profesorado Universitario) grant from Spain's Ministry of Universities.
 
-My research focuses on two main lines. First, I study axial oscillations of viscous neutron stars using relativistic hydrodynamics, combining numerical simulation with the physical interpretation of the results. Second, I work on cosmic topology: how Casimir energy and its backreaction leave observable imprints — isotropy violations, features in the primordial power spectrum — that could, in principle, reveal that the universe has a non-trivial shape on large scales.
+My current research focuses on cosmic topology: how Casimir energy and its backreaction leave observable imprints — isotropy violations, features in the primordial power spectrum — that could, in principle, reveal that the universe has a non-trivial shape on large scales. Earlier in my career I also worked on axial oscillations of viscous neutron stars using relativistic hydrodynamics, which led to a published paper, though it is not a line of research I am continuing.
 
 <!-- TODO: add a sentence or two of personal detail here (where you're from, what drew you to theoretical physics, interests outside research, etc.) -->
 
