@@ -39,6 +39,11 @@ Check out the [publications](/publications/) page for my published and ongoing w
 <!-- The theme's default social icons (bottom of the profile) render quite
 large; this trims them down without touching the theme's own stylesheet. -->
 <style>
+/* Capitalize the section headers ("news", "selected publications") that the theme renders in lowercase. */
+h2::first-letter {
+  text-transform: uppercase;
+}
+
 .social .contact-icons {
   font-size: 2rem;
 }
