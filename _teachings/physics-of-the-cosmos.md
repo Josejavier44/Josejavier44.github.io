@@ -1,6 +1,6 @@
 ---
 layout: course
-title: Physics of the Cosmos
+title: Física del Cosmos
 description: Teaching assistant for the undergraduate course on the physics of the cosmos.
 instructor: José Javier Ortega Gómez
 year: "2026/27"

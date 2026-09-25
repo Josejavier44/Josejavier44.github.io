@@ -1,6 +1,6 @@
 ---
 layout: course
-title: Physics Lab I (Chemistry degree)
+title: Laboratorio de Física I (Grado en Química)
 description: Teaching assistant for the first-year physics laboratory course, Chemistry degree.
 instructor: José Javier Ortega Gómez
 year: "2026/27"
