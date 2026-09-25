@@ -59,7 +59,7 @@ Por el camino, el primer despliegue falló dos veces porque algunos de los campo
 
 - La configuración YAML de todas las páginas y archivos de datos modificados es válida.
 - Las entradas de `_bibliography/papers.bib` tienen las llaves bien balanceadas.
-- El *style contract* del propio repositorio (`npm run lint:style-contract`) pasa correctamente.
+- El _style contract_ del propio repositorio (`npm run lint:style-contract`) pasa correctamente.
 - El workflow de despliegue (`Deploy site`) se ejecutó de verdad en GitHub Actions y terminó en verde; GitHub Pages confirma el sitio como `built`.
 
 ## Documentación completa
