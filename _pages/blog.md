@@ -1,11 +1,8 @@
 ---
 layout: default
 permalink: /blog/
-title: blog
-# TODO: set to "true" when you want to turn the blog on. The _posts/ that ship with
-# the template are demos of individual features (video, tables, Jupyter, diagrams...) —
-# delete them or replace them with your own posts before activating it.
-nav: false
+title: Blog
+nav: true
 nav_order: 1
 pagination:
   enabled: true
