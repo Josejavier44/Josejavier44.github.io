@@ -158,6 +158,22 @@ cv:
         icon: fa-solid fa-code
         keywords: "Python"
 
+    Certificates:
+      - name: "Tips & Tricks: Mathematica in Research"
+        issuer: Instituto de Física Teórica (IFT UAM-CSIC)
+        date: "2026-04-13"
+        url: ""
+
+      - name: "String Theory"
+        issuer: Instituto de Física Teórica (IFT UAM-CSIC)
+        date: "2026-04-07"
+        url: ""
+
+      - name: "AdS/CFT Holography as a Framework for Quantum Gravity"
+        issuer: Instituto de Física Teórica (IFT UAM-CSIC)
+        date: "2026-03-09"
+        url: ""
+
     Languages:
       - name: Spanish
         summary: Native
