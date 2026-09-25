@@ -19,7 +19,7 @@ jobs:
           cv_file=$(find _data -maxdepth 1 -type f \( -name "cv.yaml" -o -name "cv.yml" \))
           rendercv_dir=$(find assets -maxdepth 1 -type d -name "rendercv")
           settings=$(find $rendercv_dir -maxdepth 1 -type f \( -name "settings.yaml" -o -name "settings.yml" \))
-          rendercv render "$cv_file" --settings "$settings" > /tmp/out.log 2>&1
+          COLUMNS=400 rendercv render "$cv_file" --settings "$settings" > /tmp/out.log 2>&1
           echo "exit code: $?" >> /tmp/out.log
       - name: Post log as commit comment
         if: always()
