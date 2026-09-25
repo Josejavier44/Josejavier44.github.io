@@ -34,3 +34,26 @@ My current research focuses on cosmic topology: how Casimir energy and its backr
 <!-- TODO: add a sentence or two of personal detail here (where you're from, what drew you to theoretical physics, interests outside research, etc.) -->
 
 Check out the [publications](/publications/) page for my published and ongoing work.
+
+
+<!-- The theme's default social icons (bottom of the profile) render quite
+large; this trims them down without touching the theme's own stylesheet. -->
+<style>
+.social .contact-icons {
+  font-size: 2rem;
+}
+.social .contact-icons a img {
+  width: 1.8rem;
+  height: 1.8rem;
+  margin-bottom: 0.5rem;
+}
+.social .contact-icons a svg {
+  width: 1.8rem;
+  height: 2rem;
+  margin-bottom: 0.3rem;
+}
+.social .contact-icons a svg image {
+  width: 1.8rem;
+  height: 1.8rem;
+}
+</style>
