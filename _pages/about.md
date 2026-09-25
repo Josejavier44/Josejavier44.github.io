@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: PhD student (FPU) · Institute for Theoretical Physics (IFT) UAM-CSIC
 
