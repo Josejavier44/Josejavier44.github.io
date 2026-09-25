@@ -9,4 +9,11 @@
 #   audience: "Research" # "Research" (default) or "Outreach" — decides which
 #                         # section of the Talks page the entry appears in
 #   url: "" # optional link to slides, video, or the event page
-[]
+
+- title: "El universo de Homer Simpson: Rosquillas, Donuts y la Topología del Universo"
+  event: "La Ricotta Summer School: The Disordered Universe 2026"
+  location: "As Barreiras, Castro Calderas, Spain"
+  date: "2026-08-10"
+  type: "Talk"
+  audience: "Outreach"
+  url: ""

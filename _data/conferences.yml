@@ -7,4 +7,21 @@
 #   location: "City, Country"
 #   date: "2026-06-15" # or "2026-06" if you don't have an exact day
 #   url: "" # optional link to the event page
-[]
+
+- title: "IHES 2026 Summer School on Cosmological Correlators"
+  type: "Summer School"
+  location: "Bures-sur-Yvette, France"
+  date: "2026-07-06"
+  url: ""
+
+- title: "SCALE: Strings & Cosmology – All Lengths Explored"
+  type: "Conference"
+  location: "Tenerife, Spain"
+  date: "2026-05-11"
+  url: ""
+
+- title: "La Ricotta Summer School: The Disordered Universe 2026"
+  type: "Summer School"
+  location: "As Barreiras, Castro Calderas, Spain"
+  date: "2026-08-10"
+  url: ""

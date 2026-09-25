@@ -72,6 +72,18 @@ cv:
         location: Copenhagen, Denmark
         start_date: "2025-07"
         end_date: "2025-08"
+        summary: >
+          Studied the quasinormal modes of highly compact objects (neutron stars),
+          under the supervision of Vitor Cardoso and Jaime Redondo-Yuste, using more
+          realistic models that incorporate viscosity — leading to a new family of
+          modes.
+        highlights: []
+
+      - company: Institute for Theoretical Physics (IFT UAM-CSIC)
+        position: 'Coordinator, "4º ESO + Empresa – Vive la Física Teórica" outreach program'
+        location: Madrid, Spain
+        start_date: "2026-03-23"
+        end_date: "2026-03-26"
         summary: ""
         highlights: []
 
