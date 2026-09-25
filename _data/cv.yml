@@ -115,7 +115,7 @@ cv:
       - title: FPU Grant (Formación de Profesorado Universitario)
         authors:
           - Ministry of Universities (Government of Spain)
-        date: "" # TODO: award date, format YYYY-MM-DD
+        date: "2025-12"
         awarder: Ministry of Universities
         summary: "Reference: FPU24/02041"
 
