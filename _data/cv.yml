@@ -62,10 +62,7 @@ cv:
         summary: >
           PhD research funded by an FPU (Formación de Profesorado Universitario) grant,
           reference FPU24/02041, in Yashar Akrami's group.
-        highlights:
-          - Simulating axial oscillations of viscous neutron stars using relativistic hydrodynamics
-          - Computing Casimir energy and its backreaction in non-trivial cosmic topology scenarios
-          - Studying the imprint of cosmic topology on the primordial power spectrum
+        highlights: []
 
       - company: Niels Bohr Institute
         position: Erasmus+ Research Stay
