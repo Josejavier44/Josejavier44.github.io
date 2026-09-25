@@ -12,6 +12,15 @@ jobs:
         with:
           ruby-version: "3.3.5"
           bundler-cache: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+          cache: "pip"
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: "npm"
+      - run: npm ci
       - name: Update _config.yml ⚙️
         uses: fjogeleit/yaml-update-action@main
         with:
@@ -22,6 +31,9 @@ jobs:
       - name: Build and capture log
         run: |
           set +e
+          sudo apt-get update && sudo apt-get install -y imagemagick
+          pip3 install --upgrade nbconvert
+          export JEKYLL_ENV=production
           bundle exec jekyll build > /tmp/build.log 2>&1
           echo "exit code: $?" >> /tmp/build.log
       - name: Report log to commit comment
