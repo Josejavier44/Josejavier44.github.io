@@ -2,7 +2,7 @@
 layout: page
 permalink: /talks/
 title: Talks
-description: Conferences attended and talks given.
+description: Talks given at seminars, workshops, and conferences.
 nav: true
 nav_order: 3
 ---

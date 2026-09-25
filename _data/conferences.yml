@@ -1,0 +1,10 @@
+# Conferences and summer/winter schools attended (not necessarily with a
+# talk or poster of your own — see _data/talks.yml for those). Add one
+# entry per event, most recent first.
+#
+# - title: "Conference or school name"
+#   type: "Conference" # Conference, Summer School, Winter School, Workshop, etc.
+#   location: "City, Country"
+#   date: "2026-06-15" # or "2026-06" if you don't have an exact day
+#   url: "" # optional link to the event page
+[]
