@@ -19,7 +19,7 @@ icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name 
 apple_touch_icon: # image name in /assets/img/ (or a rooted path / absolute URL) used for iOS home-screen bookmarks; needs a real 180x180 PNG, since Safari ignores the emoji favicon above. Left empty, iOS falls back to a screenshot of the page.
 
 # TODO: sustituye por https://<tu-usuario-de-GitHub>.github.io una vez sepas cómo vas a desplegarlo
-url: https://TU-USUARIO.github.io # the base hostname & protocol for your site
+url: https://josejavier44.github.io # the base hostname & protocol for your site
 # TODO: si tu repositorio se llama "TU-USUARIO.github.io" deja esto vacío (sitio en la raíz).
 # Si lo llamas de otra forma, p.ej. "web-personal", pon aquí "/web-personal".
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
