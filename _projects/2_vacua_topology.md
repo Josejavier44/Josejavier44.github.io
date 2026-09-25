@@ -1,13 +1,13 @@
 ---
 layout: page
 title: Vacua and Non-Trivial Topology
-description: Simulaciones en régimen clásico que confirman la posibilidad de una solución tipo "cosmic egg" al añadir un campo escalar a la energía de Casimir.
+description: Classical-regime simulations showing that a "cosmic egg" solution is possible when a scalar field is added to the Casimir energy.
 img:
 importance: 2
 category: research
 related_publications: false
 ---
 
-Trabajo en curso (todavía sin publicar). Se han ejecutado simulaciones en régimen clásico que confirman que una solución de tipo "huevo cósmico" ("cosmic egg") es posible en cierta región del espacio de parámetros al añadir un campo escalar a la energía de Casimir.
+Work in progress (not yet published). Classical-regime simulations confirm that a "cosmic egg" solution is possible in some region of parameter space when a scalar field is added to the Casimir energy.
 
-<!-- TODO: amplía esta descripción cuando el trabajo avance. -->
+<!-- TODO: expand this description as the work progresses. -->

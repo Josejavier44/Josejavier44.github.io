@@ -1,9 +1,9 @@
-# Añade aquí a tus coautores para que sus nombres se enlacen automáticamente
-# en la lista de autores de _bibliography/papers.bib.
-# El apellido va en minúsculas y sin acentos como clave. Ejemplo:
+# Add your coauthors here so their names get automatically linked
+# in the author list of _bibliography/papers.bib.
+# The surname goes lowercase and without accents as the key. Example:
 #
 # "akrami":
 #   - firstname: ["Yashar", "Y."]
 #     url: https://example.com/yashar-akrami
 #
-# TODO: sustituye por tus coautores reales.
+# TODO: replace with your real coauthors.

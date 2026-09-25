@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Proyectos de investigación en curso.
+description: Ongoing research projects.
 nav: true
 nav_order: 3
 display_categories: [research]

@@ -1,13 +1,13 @@
 ---
 layout: page
 title: EDE with Alpha-Attractors
-description: Programa de simulación desde inflación hasta hoy, buscando un modelo de alpha-attractors que explique la inflación, la tensión de Hubble y la energía oscura observada.
+description: A simulation pipeline from inflation to today, searching for an alpha-attractors model that explains inflation, the Hubble tension, and observed dark energy.
 img:
 importance: 3
 category: research
 related_publications: false
 ---
 
-Trabajo en curso (todavía sin publicar). Desarrollo de un programa de simulación que cubre desde la inflación hasta la actualidad, en busca de un modelo de alpha-attractors capaz de explicar conjuntamente la inflación, la tensión de Hubble y la energía oscura observada.
+Work in progress (not yet published). Building a simulation pipeline that covers inflation through to today, in search of an alpha-attractors model able to jointly explain inflation, the Hubble tension, and the observed dark energy.
 
-<!-- TODO: amplía esta descripción cuando el trabajo avance. -->
+<!-- TODO: expand this description as the work progresses. -->

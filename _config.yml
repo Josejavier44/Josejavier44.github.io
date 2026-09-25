@@ -4,12 +4,12 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: José Javier
-middle_name: # TODO: si usas segundo nombre, ponlo aquí; si no, déjalo vacío
-last_name: "[TU APELLIDO AQUÍ]" # TODO: pon tu(s) apellido(s) tal como quieres que aparezcan en la web y en las citas
+middle_name: # TODO: add a middle name here if you use one; otherwise leave it blank
+last_name: "[YOUR SURNAME HERE]" # TODO: put your surname(s) exactly as you want them to appear on the site and in citations
 contact_note: >
-  La forma más fiable de contactarme es por correo electrónico.
+  The most reliable way to reach me is by email.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Investigador predoctoral en física teórica (IFT UAM-CSIC), trabajando en oscilaciones de estrellas de neutrones y topología cósmica.
+  PhD student in theoretical physics (IFT UAM-CSIC), working on neutron star oscillations and cosmic topology.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -18,10 +18,9 @@ lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 apple_touch_icon: # image name in /assets/img/ (or a rooted path / absolute URL) used for iOS home-screen bookmarks; needs a real 180x180 PNG, since Safari ignores the emoji favicon above. Left empty, iOS falls back to a screenshot of the page.
 
-# TODO: sustituye por https://<tu-usuario-de-GitHub>.github.io una vez sepas cómo vas a desplegarlo
 url: https://josejavier44.github.io # the base hostname & protocol for your site
-# TODO: si tu repositorio se llama "TU-USUARIO.github.io" deja esto vacío (sitio en la raíz).
-# Si lo llamas de otra forma, p.ej. "web-personal", pon aquí "/web-personal".
+# This stays blank because the repo is named "Josejavier44.github.io" (root site).
+# If you ever rename the repo to something else, e.g. "personal-site", set this to "/personal-site".
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
@@ -359,9 +358,9 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  # TODO: pon aquí tu apellido y las variantes de tu nombre tal como aparecen
-  # en tus papers, para que se subrayen automáticamente en la lista de autores
-  # (debe coincidir con lo que pongas en _bibliography/papers.bib)
+  # TODO: put your surname and the name variants you use in your papers here,
+  # so your name gets automatically underlined in the author list
+  # (must match what you put in _bibliography/papers.bib)
   last_name: [TuApellido]
   first_name: [José Javier, J. J.]
 

@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD student (FPU) · Instituto de Física Teórica (IFT) UAM-CSIC
+subtitle: PhD student (FPU) · Institute for Theoretical Physics (IFT) UAM-CSIC
 
 profile:
   align: right
-  image: prof_pic.jpg # TODO: sustituye assets/img/prof_pic.jpg por tu foto y descomenta más abajo si quieres cambiar el recorte
+  image: prof_pic.jpg # TODO: replace assets/img/prof_pic.jpg with your photo, and uncomment below if you want to change the crop
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p><!-- TODO: número de despacho, si quieres mostrarlo --></p>
-    <p>Instituto de Física Teórica (IFT UAM-CSIC)</p>
-    <p>C/ Nicolás Cabrera 13-15, Campus de Cantoblanco UAM, 28049 Madrid</p>
+    <p><!-- TODO: office number, if you want to show it --></p>
+    <p>Institute for Theoretical Physics (IFT UAM-CSIC)</p>
+    <p>C/ Nicolás Cabrera 13-15, Campus de Cantoblanco UAM, 28049 Madrid, Spain</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -22,15 +22,15 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: false # sin entradas de blog por ahora; cambia a true si empiezas a escribir
+  enabled: false # no blog posts yet; set to true once you start writing
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Soy investigador predoctoral en física teórica en el [Instituto de Física Teórica (IFT UAM-CSIC)](https://www.ift.csic-uam.es/), donde trabajo en el grupo de Yashar Akrami, con una beca FPU (Formación de Profesorado Universitario) del Ministerio de Universidades.
+I am a PhD student in theoretical physics at the [Institute for Theoretical Physics (IFT UAM-CSIC)](https://www.ift.csic-uam.es/), where I work in Yashar Akrami's group, supported by an FPU (Formación de Profesorado Universitario) grant from Spain's Ministry of Universities.
 
-Mi investigación se centra en dos líneas principales. Por un lado, estudio las oscilaciones axiales de estrellas de neutrones viscosas mediante hidrodinámica relativista, combinando simulación numérica con la interpretación física de los resultados. Por otro, trabajo en topología cósmica: cómo la energía de Casimir y su retroacción ("backreaction") dejan huellas observables —violaciones de isotropía, imprints en el espectro de potencias primordial— que podrían, en principio, revelar que el universo tiene una forma no trivial a gran escala.
+My research focuses on two main lines. First, I study axial oscillations of viscous neutron stars using relativistic hydrodynamics, combining numerical simulation with the physical interpretation of the results. Second, I work on cosmic topology: how Casimir energy and its backreaction leave observable imprints — isotropy violations, features in the primordial power spectrum — that could, in principle, reveal that the universe has a non-trivial shape on large scales.
 
-<!-- TODO: añade aquí una o dos frases más personales (de dónde vienes, qué te llevó a la física teórica, intereses fuera de la investigación, etc.) -->
+<!-- TODO: add a sentence or two of personal detail here (where you're from, what drew you to theoretical physics, interests outside research, etc.) -->
 
-En la sección de [publicaciones](/publications/) puedes ver mis trabajos publicados y en curso.
+Check out the [publications](/publications/) page for my published and ongoing work.

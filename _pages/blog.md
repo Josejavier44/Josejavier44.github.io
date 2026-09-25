@@ -2,9 +2,9 @@
 layout: default
 permalink: /blog/
 title: blog
-# TODO: pon "true" cuando quieras activar el blog. Los _posts/ que trae la plantilla
-# son demos de funcionalidades (vídeo, tablas, Jupyter, diagramas...) — bórralos o
-# sustitúyelos por entradas propias antes de activarlo.
+# TODO: set to "true" when you want to turn the blog on. The _posts/ that ship with
+# the template are demos of individual features (video, tables, Jupyter, diagrams...) —
+# delete them or replace them with your own posts before activating it.
 nav: false
 nav_order: 1
 pagination:

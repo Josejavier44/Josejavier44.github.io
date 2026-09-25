@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Sitio web personal en marcha. Iré añadiendo aquí novedades sobre publicaciones, charlas y avances en mis proyectos de investigación.
+Personal website up and running. I'll post updates here about publications, talks, and progress on my research projects.

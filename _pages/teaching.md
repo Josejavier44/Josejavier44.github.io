@@ -3,12 +3,12 @@ layout: page
 permalink: /teaching/
 title: teaching
 description: Course materials, schedules, and resources for classes taught.
-nav: false # TODO: pon "true" si en algún momento impartes clases/prácticas y quieres mostrar esta página
+nav: false # TODO: set to "true" if you ever teach classes or labs and want to show this page
 nav_order: 6
 calendar: true
 ---
 
-<!-- TODO: si activas esta página, añade tus cursos en _teachings/ (borra los ejemplos de data-science y machine learning que trae la plantilla si no aplican) -->
+<!-- TODO: if you enable this page, add your courses under _teachings/ (delete the data-science and machine-learning examples that ship with the template if they don't apply) -->
 
 {% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
 

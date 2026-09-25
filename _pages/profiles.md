@@ -3,7 +3,7 @@ layout: profiles
 permalink: /people/
 title: people
 description: members of the lab or group
-nav: false # TODO: activa esto solo si diriges un grupo/lab con varios miembros; no aplica a un sitio personal
+nav: false # TODO: only enable this if you run a lab/group with several members; not applicable to a personal site
 nav_order: 7
 
 profiles:

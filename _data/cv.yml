@@ -1,17 +1,17 @@
 cv:
-  name: José Javier [TU APELLIDO AQUÍ] # TODO: tu nombre completo tal como quieres firmarlo
+  name: José Javier [YOUR SURNAME HERE] # TODO: your full name exactly as you want to sign it
   label: PhD Student (FPU) · Theoretical Physics
   email: jjavier.ortega@csic.es
   location: Madrid, Spain
   image: ""
   summary: >
-    Investigador predoctoral en física teórica en el Instituto de Física Teórica (IFT UAM-CSIC),
-    trabajando en oscilaciones de estrellas de neutrones viscosas y en topología cósmica
-    (energía de Casimir, espectro de potencias primordial).
+    PhD student in theoretical physics at the Institute for Theoretical Physics (IFT UAM-CSIC),
+    working on axial oscillations of viscous neutron stars and cosmic topology
+    (Casimir energy, primordial power spectrum).
 
-  # TODO: añade aquí tu LinkedIn u otras redes si quieres, con el mismo formato:
+  # TODO: add your LinkedIn or other networks here if you want, same format:
   # - network: LinkedIn
-  #   username: tu-usuario
+  #   username: your-username
   social_networks:
     - network: GitHub
       username: Josejavier44
@@ -25,66 +25,66 @@ cv:
 
   sections:
     Education:
-      # TODO: rellena tu formación real (grado, máster, universidad, fechas) y borra los placeholders
-      - institution: "[TU UNIVERSIDAD]"
-        location: "[Ciudad, País]"
+      # TODO: fill in your real education (degree, master's, university, dates) and delete the placeholders
+      - institution: "[YOUR UNIVERSITY]"
+        location: "[City, Country]"
         url: ""
         area: Physics
-        studyType: "[Grado / Máster]"
+        studyType: "[Bachelor's / Master's]"
         start_date: ""
         end_date: ""
         highlights: []
 
     Experience:
-      - company: Instituto de Física Teórica (IFT UAM-CSIC)
-        position: Doctoral Researcher (Grupo de Yashar Akrami)
+      - company: Institute for Theoretical Physics (IFT UAM-CSIC)
+        position: Doctoral Researcher (Yashar Akrami's group)
         location: Madrid, Spain
-        start_date: "" # TODO: fecha de inicio del doctorado, formato AAAA-MM
+        start_date: "" # TODO: PhD start date, format YYYY-MM
         end_date: present
         summary: >
-          Investigación predoctoral financiada por una beca FPU (Formación de Profesorado
-          Universitario, referencia FPU24/02041), en el grupo de Yashar Akrami.
+          PhD research funded by an FPU (Formación de Profesorado Universitario) grant,
+          reference FPU24/02041, in Yashar Akrami's group.
         highlights:
-          - Simulación de oscilaciones axiales en estrellas de neutrones viscosas mediante hidrodinámica relativista
-          - Cálculo de energía de Casimir y su retroacción en escenarios de topología cósmica no trivial
-          - Estudio del imprint de la topología cósmica en el espectro de potencias primordial
+          - Simulating axial oscillations of viscous neutron stars using relativistic hydrodynamics
+          - Computing Casimir energy and its backreaction in non-trivial cosmic topology scenarios
+          - Studying the imprint of cosmic topology on the primordial power spectrum
 
     Awards:
-      - title: Beca FPU (Formación de Profesorado Universitario)
+      - title: FPU Grant (Formación de Profesorado Universitario)
         authors:
-          - Ministerio de Universidades (Gobierno de España)
-        date: "" # TODO: fecha de concesión, formato AAAA-MM-DD
-        awarder: Ministerio de Universidades
-        summary: "Referencia: FPU24/02041"
+          - Ministry of Universities (Government of Spain)
+        date: "" # TODO: award date, format YYYY-MM-DD
+        awarder: Ministry of Universities
+        summary: "Reference: FPU24/02041"
 
     Publications:
       - title: Axial Oscillations of Viscous Neutron Stars
         authors:
-          - "[TU NOMBRE Y COAUTORES]" # TODO: lista real de autores
+          - "[YOUR NAME AND COAUTHORS]" # TODO: real author list
         publisher: Phys. Rev. D 114, 044012
         releaseDate: 2026
-        url: "" # TODO: DOI o enlace
+        url: "" # TODO: DOI or link
         summary: >
-          Simulación de estrellas de neutrones viscosas con un programa en Mathematica,
-          incluyendo la reproducción de casos simplificados de la literatura y la
-          interpretación física de los resultados.
+          Simulation of viscous neutron stars with a Mathematica program, including
+          reproducing simplified cases from the literature and the physical
+          interpretation of the results.
 
       - title: "Quantum Signatures of Cosmic Topology: How Casimir Backreaction Transmits Isotropy Violation"
         authors:
-          - "[TU NOMBRE Y COAUTORES]" # TODO: lista real de autores
+          - "[YOUR NAME AND COAUTHORS]" # TODO: real author list
         publisher: arXiv:2603.12319
         releaseDate: 2026
         url: https://arxiv.org/abs/2603.12319
-        summary: Estudio de cómo la retroacción de Casimir transmite violaciones de isotropía en topología cósmica.
+        summary: Study of how Casimir backreaction transmits isotropy violation in cosmic topology.
 
     Skills:
-      - name: Simulación numérica
+      - name: Numerical simulation
         level: ""
         icon: fa-solid fa-square-root-variable
-        keywords: "Mathematica, hidrodinámica relativista, evolución no perturbativa del universo"
-      # TODO: añade lenguajes de programación, herramientas o técnicas adicionales (p.ej. Python, C++, CAMB/CLASS, etc.)
+        keywords: "Mathematica, relativistic hydrodynamics, non-perturbative evolution of the universe"
+      # TODO: add programming languages, tools, or other techniques (e.g. Python, C++, CAMB/CLASS, etc.)
 
     Languages:
-      # TODO: añade los idiomas que domines y tu nivel, y borra este placeholder
-      - name: "[Idioma]"
-        summary: "[Nivel]"
+      # TODO: add the languages you speak and your level, and delete this placeholder
+      - name: "[Language]"
+        summary: "[Level]"
