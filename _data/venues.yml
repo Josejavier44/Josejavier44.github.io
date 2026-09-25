@@ -1,0 +1,11 @@
+# Enlaces asociados a los "abbr" usados en _bibliography/papers.bib
+"PRD":
+  url: https://journals.aps.org/prd/
+  color: "#00369f"
+
+"arXiv":
+  url: https://arxiv.org/
+  color: "#b31b1b"
+
+"In prep.":
+  color: "#888888"
